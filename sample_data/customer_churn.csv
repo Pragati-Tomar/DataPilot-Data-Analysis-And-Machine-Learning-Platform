@@ -1,0 +1,11 @@
+customerID,gender,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,Churn
+7590-VHVEG,Female,1,29.85,29.85,Month-to-month,DSL,Electronic check,Yes
+5575-GNVDE,Male,34,56.95,1889.5,One year,DSL,Mailed check,No
+3668-QPYBK,Male,2,53.85,108.15,Month-to-month,DSL,Mailed check,Yes
+7795-CFOCW,Male,45,42.3,1840.75,One year,DSL,Bank transfer,No
+9237-HQITU,Female,2,70.7,151.65,Month-to-month,Fiber optic,Electronic check,Yes
+9305-CDSKC,Female,8,99.65,820.5,Month-to-month,Fiber optic,Electronic check,Yes
+1452-ZFJCG,Male,72,89.1,6360.45,Two year,Fiber optic,Credit card,No
+6713-OKOMC,Female,10,29.75,301.9,Month-to-month,DSL,Mailed check,No
+7892-POOKP,Female,28,104.8,3046.05,Month-to-month,Fiber optic,Electronic check,Yes
+6388-TABGU,Male,62,56.15,3487.95,Two year,DSL,Bank transfer,No
